@@ -1,5 +1,4 @@
 /* Maximum and minimum of an array using minimum number of comparisons
-Last Updated : 23 May, 2024
 Given an array of size N. 
 The task is to find the maximum and the minimum element of the array using the
 minimum number of comparisons.
