@@ -34,7 +34,7 @@ public static int setmaxi(int[] A, int N) {
     return maxi;
    }
    public static void main(String[] args) {
-    int[] A = {4, 9, 6, 5, 2, 3};
+    int[] A = {22, 14, 8, 17, 35, 3};
     int N = A.length;
     System.out.println("Minimum element is: " + setmini(A, N));
     System.out.println("Maximum element is: " + setmaxi(A, N));
